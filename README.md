@@ -4,6 +4,11 @@
 
 Install Wordpress Login Checker
 
+
+```bash
+ Python 3.x
+```
+
 ```bash
   git clone https://github.com/0xBog/Wordpress-Login-Checker
 
